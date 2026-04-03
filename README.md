@@ -33,17 +33,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 <img width="48" height="48" src="https://img.icons8.com/color/48/jupyter.png"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png"/>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [📊 Sales Dashboard](https://github.com/krishanchoudhary01) | Interactive KPI dashboard with regional sales trends and performance metrics | Power BI, DAX, Excel |
-| [💻 Laptop Store Website](https://github.com/krishanchoudhary01) | Responsive e-commerce style website for a laptop retail store | HTML, CSS, JS |
-| [🏋️ Fitness Tracker](https://github.com/krishanchoudhary01) | Python app to log workouts, track progress and visualize fitness data | Python, Pandas, Matplotlib |
-
----
 
 ### 💻 Workspace Spec
 
@@ -51,14 +40,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
----
-
-### 📊 GitHub Stats
-
-![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishanchoudhary01&show_icons=true&theme=dark&hide_border=true&bg_color=0b090a&title_color=18db0a&icon_color=18db0a&text_color=fdfcfd)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishanchoudhary01&layout=compact&theme=dark&hide_border=true&bg_color=0b090a&title_color=18db0a&text_color=fdfcfd)
-
----
 
 ### 🧩 LeetCode Stats
 
@@ -72,18 +53,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 
 ---
 
-### 🗺️ Learning Roadmap
-
-```
-Currently Learning
-├── Advanced Python        →  OOP, APIs, automation
-├── SQL & PL/SQL           →  Window functions, CTEs, optimization
-├── Statistics             →  Hypothesis testing, probability
-├── Data Storytelling      →  Dashboard design, business context
-└── Machine Learning       →  Scikit-learn, regression, classification
-```
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishanchoudhary01&style=flat-square&color=18db0a&label=Profile+views" />
