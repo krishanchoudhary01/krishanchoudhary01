@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Krishan Choudhary</h1>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
 
-<!--
-**krishanchoudhary01/krishanchoudhary01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Working on Data Analysis Projects
+- 🌱 Learning Data Science
+- 💡 Passionate about data insights
+- 📍 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+Python | SQL | PL/SQL | Pandas | NumPy | Power BI | Excel | HTML | CSS
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=krishanchoudhary01&show_icons=true&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+- 📊 Sales Dashboard (Power BI)
+- 💻 Laptop Store Website
+- 🏋️ Fitness Tracker
+
+---
+
+## 🌐 Connect With Me
+- Email: your-email@gmail.com
