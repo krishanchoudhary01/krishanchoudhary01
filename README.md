@@ -6,7 +6,7 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 
 - 🔭 Here's my [Portfolio](https://yourportfolio.com/)
 - 🌱 Currently enhancing my data visualization and storytelling skills through hands-on projects.
-- 📫 Reach me at **youremail@gmail.com**
+- 📫 Reach me at **krishanchoudhary8742@gmail.com**
 - 📍 India
 
 <br/>
@@ -15,7 +15,7 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krishan-choudhary-69894235b/)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/krishanchoudhary01)
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/krishanchoudhary01/)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/krishan001/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:krishanchoudhary8742@gmail.com)
 
 ---
@@ -32,7 +32,7 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 
 ### 🧩 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/krishanchoudhary01?theme=dark&font=Marcellus)](https://leetcode.com/krishanchoudhary01)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/krishan001?theme=dark&font=Marcellus)](https://leetcode.com/u/krishan001/)
 
 ---
 
@@ -47,4 +47,3 @@ Data Analyst, passionate about turning raw data into meaningful insights.
   <br/>
   <sub>⭐ If you find my work useful, consider starring the repo!</sub>
 </p>
-
