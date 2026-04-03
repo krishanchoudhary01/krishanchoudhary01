@@ -13,7 +13,7 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 
 ### 🌐 Social Presence
 
-[<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/krishan-choudhary-69894235b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" />](www.linkedin.com/in/krishan-choudhary-69894235b)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krishan-choudhary-69894235b/)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/krishanchoudhary01)
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/krishanchoudhary01/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:youremail@gmail.com)
@@ -31,13 +31,11 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png"/>
 
-
 ### 💻 Workspace Spec
 
 <img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
 
 ### 🧩 LeetCode Stats
 
@@ -50,7 +48,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 [![Krishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishanchoudhary01&bg_color=0b090a&color=fdfcfd&line=18db0a&point=ffffff&area=true&hide_border=true)](https://github.com/krishanchoudhary01)
 
 ---
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishanchoudhary01&style=flat-square&color=18db0a&label=Profile+views" />
