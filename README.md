@@ -29,7 +29,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png"/>
-<img width="48" height="48" src="[https://img.icons8.com/color/48/jupyter.png](https://raw.githubusercontent.com/jithurjacob/vscode-nbpreviewer/master/images/jupyter.png]"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png"/>
 
 
