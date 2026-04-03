@@ -6,8 +6,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 
 - 🔭 Here's my [Portfolio](https://yourportfolio.com/)
 - 🌱 Currently enhancing my data visualization and storytelling skills through hands-on projects.
-- 🎓 Engineering at [<img src="https://tse1.mm.bing.net/th/id/OIP.M1cu-AXE8ZyzQGKk_Gi51gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="24">](https://yourcollege.edu.in/)
-- 💼 Previously interned at [<img height="24" width="24" src="https://yt3.googleusercontent.com/BiqJkVrBI9Li4-Yn5smIyjLdhlm7eiJzn0L6gNW5V-Z-Hr4j1tQCp10NbH3Y4SZ-A31rnnpU=s900-c-k-c0x00ffffff-no-rj">](https://yourcompany.com/)
 - 📫 Reach me at **youremail@gmail.com**
 - 📍 India
 
