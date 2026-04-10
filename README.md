@@ -41,7 +41,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 [![Krishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishanchoudhary01&bg_color=0b090a&color=fdfcfd&line=18db0a&point=ffffff&area=true&hide_border=true)](https://github.com/krishanchoudhary01)
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishanchoudhary01&style=flat-square&color=18db0a&label=Profile+views" />
   <br/>
