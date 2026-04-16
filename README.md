@@ -1,6 +1,7 @@
 ### Hi there, I'm Krishan Choudhary 👋
 
-<img align="right" width="330" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-animation-gif-download-10771256.mp4">
+<img align="right" width="330" src="https://img.icons8.com/?size=100&id=Xm4lfWy0IIUE&format=png&color=000000">
+
 
 
 Data Analyst, passionate about turning raw data into meaningful insights.
