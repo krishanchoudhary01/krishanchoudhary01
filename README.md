@@ -1,6 +1,6 @@
 ### Hi there, I'm Krishan Choudhary 👋
 
-<img align="right" width="330" src="https://img.icons8.com/?size=100&id=Xm4lfWy0IIUE&format=png&color=000000">
+<img align="right" width="330" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 
