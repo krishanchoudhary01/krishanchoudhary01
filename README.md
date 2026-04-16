@@ -4,7 +4,7 @@
 
 Data Analyst, passionate about turning raw data into meaningful insights.
 
-- 🔭 Here's my [Portfolio]([https://yourportfolio.com/](https://github.com/krishanchoudhary01/krishanchoudhary01/raw/main/RESUME.pdf))
+- 🔭 Here's my [Portfolio]([https://yourportfolio.com/](https://github.com/krishanchoudhary01/krishanchoudhary01/raw/main/RESUME.pdf])
 - 🌱 Currently enhancing my data visualization and storytelling skills through hands-on projects.
 - 📫 Reach me at **krishanchoudhary8742@gmail.com**
 - 📍 India
