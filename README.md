@@ -41,7 +41,8 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 <img height="30" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
-🧩 LeetCode Stats
+
+### 🧩 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/krishan001?theme=dark&font=Marcellus)](https://leetcode.com/u/krishan001/)
 
