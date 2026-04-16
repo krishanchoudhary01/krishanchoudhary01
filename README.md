@@ -10,6 +10,8 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 - 📍 India
 
 <br/>
+
+
 ### 🌐 Social Presence
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krishan-choudhary-69894235b/)
