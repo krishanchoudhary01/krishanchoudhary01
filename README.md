@@ -1,13 +1,4 @@
-### Hi there, I'm Krishan Choudhary 👋
-
-<img align="right" width="330" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-Data Analyst, passionate about turning raw data into meaningful insights.
-
-- 🔭 Here's my [Portfolio](https://yourportfolio.com/)
-- 🌱 Currently enhancing my data visualization and storytelling skills through hands-on projects.
-- 📫 Reach me at **krishanchoudhary8742@gmail.com**
-- 📍 India
+Data Analyst, passionate about turning raw data into meaningful insights. <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> - 🔭 Here's my [Portfolio](https://yourportfolio.com/) - 🌱 Currently enhancing my data visualization and storytelling skills through hands-on projects. - 📫 Reach me at **krishanchoudhary8742@gmail.com** - 📍 India
 
 <br/>
 
