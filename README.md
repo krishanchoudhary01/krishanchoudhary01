@@ -22,7 +22,17 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 
 ### 🛠️ Skills
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/></br> <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/pandas.png"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+</p>
 
 ### 💻 Workspace Spec
 
