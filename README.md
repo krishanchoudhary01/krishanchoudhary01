@@ -35,11 +35,11 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 </p>
 
 ### 💻 Workspace Spec
-
+<p align="left">
 <img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
+</p>
 ### 🧩 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/krishan001?theme=dark&font=Marcellus)](https://leetcode.com/u/krishan001/)
