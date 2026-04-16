@@ -57,3 +57,6 @@ Data Analyst, passionate about turning raw data into meaningful insights.
   <br/>
   <sub>⭐ If you find my work useful, consider starring the repo!</sub>
 </p>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishanchoudhary01&show_icons=true)
