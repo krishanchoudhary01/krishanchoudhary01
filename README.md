@@ -39,7 +39,7 @@ Data Analyst, passionate about turning raw data into meaningful insights.
 <img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+
 </p>
 ### 🧩 LeetCode Stats
 
